@@ -9,7 +9,8 @@
 #dino {
     width: 50px;
     height: 50px;
-    background-image: url(images/person-runing-back-white.png);
+    background-image: url(/images/person-runing-black-white.png);
     background-size: 50px 50px;
     position: relative;
+    top: 150px;
 }
