@@ -22,4 +22,4 @@ let isAlive = setInterval ( function () {
     if (cactusLeft < 50 && cactusLeft > 0 && personTop >= 140) {
         alert('Game over!!');
     }
-})
+}, 10)
